@@ -1,0 +1,42 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #009688;
+    margin-right: 20px;
+}
+/* style.css */
+
+#about-me-header {
+    color: #009688;
+}
+
+.about-me-text {
+    line-height: 1.5;
+}
+
+.navigation-link {
+    background-color: #009688;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
